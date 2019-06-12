@@ -40,4 +40,4 @@ if( ! class_exists( 'artek_rfun' ) ) {
     }
 }
 
-new wpza_rfun();
+new artek_rfun();
